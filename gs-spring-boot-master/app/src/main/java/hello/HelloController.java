@@ -8,6 +8,6 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "This is java based application!";
+        return "This is java based application uses in maven!";
     }   
 }
